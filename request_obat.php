@@ -182,11 +182,6 @@
                         </li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">              
-                        <li>
-                            <a href="logout.php">
-                                <p>Log out</p>
-                            </a>
-                        </li>
 						<li class="separator hidden-lg hidden-md"></li>
                     </ul>
                 </div>
