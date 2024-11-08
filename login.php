@@ -35,10 +35,10 @@ if (isset($_POST['login'])) {
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
 	<style type="text/css">
 		.kotak {
-			margin-top: 150px;
-			background-color: pink;
+			margin-top: 250px;
+			background-color: #b3cde0;
 			/*#AAE25E*/
-			color: #fff;
+			color: #1d3557;
 		}
 
 		.kotak .input-group {
